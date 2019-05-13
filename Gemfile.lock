@@ -15,7 +15,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.5)
+    eventmachine (1.2.5-x86-mingw32)
     ffi (1.9.23)
+    ffi (1.9.23-x86-mingw32)
     filesize (0.1.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -59,6 +61,8 @@ GEM
     mini_portile2 (2.3.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    nokogiri (1.8.2-x86-mingw32)
+      mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     progressbar (1.9.0)
@@ -78,9 +82,10 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   jekyll-algolia (~> 1.0)
 
 BUNDLED WITH
-   1.16.0
+   2.0.1

@@ -1,4 +1,4 @@
-# White-labeling the docs
+﻿# White-labeling the docs1
 
 This project is a documentation for the elastic.io platform. In order to provide a white-labeled documentation to your customers, please follow the following steps: 
 
